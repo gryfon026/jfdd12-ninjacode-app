@@ -23,6 +23,6 @@
 - [ ] - l10n (number system)
 - [ ] - fix float operations 0.3000004
 - [ ] - fix scroll on desktop
-- [ ] - add currency (pln/us/eur)
+- [ ] - add currency (pln/dol/eur)
 - [ ] - add delete transactions on history card
 - [ ] - add edit transaction on history card (name, value, category)
